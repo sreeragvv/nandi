@@ -24,7 +24,7 @@
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": sreeragvv
+      "value": "sreeragvv"
     },
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
@@ -42,7 +42,7 @@
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
       "value": "413824145 413824145"
-    }
+    },
     "PORT": {
       "description": "Port to use for your webhooks",
       "value": "8443"
